@@ -1,0 +1,17 @@
+{
+  "name": "com.szemafor.plugins.movesense",
+  "version": "1.0.0",
+  "description": "Movesense plugin for cordoba",
+  "cordova": {
+    "id": "com.szemafor.plugins.movesense",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "UNLICENSED"
+}
