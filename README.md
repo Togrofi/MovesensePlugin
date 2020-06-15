@@ -24,4 +24,14 @@ window.plugins.msplugin.
 
   - Meas/Gyro/13 = Gyroscope
   
+  - Meas/Magn/13 = Magnometer
+  
+  - Meas/Temperature = what you think it is
+  
+  - Meas/HR = heart rate
+  
+  - Meas/ECG = ECG which i think is something to do with heartrate
+  
+  *ALL OF THE ABOVE NEED A SAMPLE RATE ADDED AT THE END SUCH AS /13*
+  
 
