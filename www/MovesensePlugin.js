@@ -14,10 +14,6 @@ MSPlugin.prototype.connect = function(successCallback, errorCallback, macAddress
   cordova.exec(successCallback, errorCallback, 'MovesensePlugin', 'connect', [macAddress]);
 };
 
-MSPlugin.prototype.disconnect = function(successCallback, errorCallback, macAddress) {
-  cordova.exec(successCallback, errorCallback, 'MovesensePlugin', 'disconnect', [macAddress]);
-};
-
 /*
 
 MSPlugin.prototype.getData = function(successCallback, errorCallback) {
